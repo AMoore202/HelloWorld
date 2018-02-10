@@ -50,7 +50,7 @@ Elnakouri, A., **Moore, A.**, & McGregor, I. (March, 2018). Waking up or falling
 *	Became familiar with of a variety of tools and techniques used in user experience research such as empathy interviews, card sorting, personas, ethnographic observation, user journey mapping, systems mapping, and participatory prototyping.
 *	Drafted a variety of communications pieces, of both the technical variety (briefing notes) and the creative variety (research invitations).
 
-##Interests
+## Interests
 *	I am a half-decent cook who enjoys learning how to make new dishes. I especially enjoy competing in my family’s annual MasterChef competition, although I am yet to win. 
 *	I enjoy participating in an assortment of physical activities including jogging, mountain biking, ball hockey, squash, and the occasional game of archery tag.
 *	I am the moderator of the Questionably Canadian Podcast, a podcast where a group of students from the University of Waterloo discuss and debate current events, life, Canada, and anything in between.
